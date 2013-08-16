@@ -5,6 +5,9 @@
 .ui-footer > .footerText {
     font-size:0.8em;
     position:relative;
+    
+    
+    
     top:-2px;
 }
 .err {
